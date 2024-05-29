@@ -2,8 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
 }
-
-<!--menu de navegação principal -->
+   /* Importacao de menu navegação */
 #principal{
     display: flex;
     width: 100%;
@@ -41,9 +40,9 @@ body{
     color: #cccccc;
     }
 
-#menusuperior{
+    #menusuperior{
     display: flex;
     width: 55%;
     justify-content: space-around;
     align-items: center;
-}
+    }
